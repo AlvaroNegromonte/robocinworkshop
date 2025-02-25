@@ -3,3 +3,12 @@ Airbus A320-200
 Airbus A320NEO
 Airbus A321-211
 Airbus A321NEO XLR
+
+Boeing 747-400F
+Boeing 737-8EH
+Boeing 767-300ER
+Boeing 777_32W
+
+Embraer E195-E2
+Embraer Phenom 100e
+Embraer E195AR
